@@ -9,3 +9,11 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+
+
+#### Name: [Khadija Bibi](https://github.com/khadija-bibi)
+
+- Place: Rawalpindi, Pakistan
+- Bio: GDSC Member
+- GitHub: [Khadija Bibi](https://github.com/khadija-bibi)
